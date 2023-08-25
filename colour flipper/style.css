@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.mainSection {
+  width: 50%;
+  height: 50%;
+  transform: translate(50%, 70%);
+}
+button {
+  background-color: aqua;
+  width: 150px;
+  height: 30px;
+  font-size: 20px;
+  cursor: pointer;
+  border-radius: 10px;
+}
+.mainSection h1 {
+  text-transform: uppercase;
+}
